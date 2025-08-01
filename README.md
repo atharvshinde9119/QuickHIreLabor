@@ -37,22 +37,9 @@
    ('Jane', 'Laborer', 'laborer@test.com', '8765432109', '$2y$10$Hash2', 'laborer');
    ```
 
-4. **🔑 Default User Accounts**
-   
-   **👨‍💼 Admin Account**
-   - 📧 Email: admin@quickhirelabor.com
-   - 🔒 Password: admin123
 
-   **👥 Test Accounts**
-   - 🏠 Customer
-     - 📧 Email: customer@example.com
-     - 🔒 Password: password123
-   
-   - 👷 Laborer
-     - 📧 Email: laborer@example.com
-     - 🔒 Password: password123
 
-5. **📁 File Structure**
+4. **📁 File Structure**
 ```
 QuickHireLabor2/
 ├── 📝 includes/
@@ -65,7 +52,7 @@ QuickHireLabor2/
 └── 📝 signup.php     # Registration page
 ```
 
-6. **🧪 Testing the Installation**
+5. **🧪 Testing the Installation**
    - 🌐 Visit http://localhost/QuickHireLabor2/
    - 🔑 Test admin login
    - 👥 Create test accounts
